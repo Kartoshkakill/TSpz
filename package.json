@@ -1,0 +1,24 @@
+{
+  "name": "tspz",
+  "version": "1.0.0",
+  "description": "🔹 Спеціальні мови програмування (TypeScript)\r У цій гілці зберігаються лабораторні та навчальні матеріали з курсу \"Спеціальні мови програмування\", виконані мовою TypeScript.\r Основна мета — продемонструвати базові та просунуті можливості TS:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kartoshkakill/TSpz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kartoshkakill/TSpz/issues"
+  },
+  "homepage": "https://github.com/Kartoshkakill/TSpz#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
